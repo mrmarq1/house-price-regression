@@ -1,6 +1,6 @@
 # House Price Regression
 
-Model to predict house prices based on a feature space provided. To take iterate approach to modelling beginning with optimisation of linear regression model through data cleaning and feature engineering. To progress on to boosting algorithms and Optuna tuning to compare performance. Finally, to determine key factors driving house prices.
+Model to predict house prices based on a feature space provided. To take iterative approach to modelling beginning with optimisation of linear regression model through data cleaning and feature engineering. To progress on to boosting algorithms and Optuna tuning to compare performance. Finally, to determine key factors driving house prices.
 
 ## Data cleaning
 Conducted analyses to understand the dataset and clean it, handling outliers, dropping redundant features and stanardising it in the process.
