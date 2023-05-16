@@ -41,4 +41,4 @@ Conducted analyses to understand the dataset and clean it, handling outliers, dr
 - Analysed feature score to determine factors driving house prices.
 
 ## Improvements
-- Analysis indicated 'lat' and 'long' features were the strongest house price determinants, thus, alluding to the property's location. This suggests further feature engineering of these variables could have yielded a more specific and descriptive feature (did attempt this with 'distance_to_seattle' but it still ranked relatively low in the feature weights).
+- Analysis indicated 'lat' and 'long' features were the strongest house price determinants, thus, alluding to the property's location. This suggests further feature engineering of these variables could have yielded a more specific and descriptive feature (did attempt this with 'distance_to_seattle' but it was relatively low in the final feature rankings).
