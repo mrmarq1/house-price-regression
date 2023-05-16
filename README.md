@@ -8,7 +8,7 @@ Model to predict house prices based on a feature space provided. To take iterati
 
 ## Learning Points
 
-- Project impressed upon me the impact of feature engineering with the linear regression model's adj. R^2 going from 0.7114 (baseline model) to 0.7905. 
+- The impact of feature engineering on model performance (the linear regression model's adj. R^2 went from 0.7114 at baseline to 0.7905). 
 - How to calculate distances based on latitude and longitude with Python's 'vincenty' package.
 - Relative merits of different model performance metrics.
 - Practical implementation of Optuna hyperparameter tuning.
